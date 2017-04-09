@@ -3,7 +3,7 @@
 ## the functions are used to cache the inverse of a matrix
 
 ## Write a short comment describing this function
-## makeCacheMatrix creates a special "vector", which is really
+## makeCacheMatrix creates a special "matrix", which is really
 ##a list containing a function to
 
 ##1. set the value of the matrix
